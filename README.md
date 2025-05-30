@@ -63,7 +63,9 @@ pip install arcgis
 
 **[5. Listas](Iniciante-para-geoprocessamento-com-python/Python Básico/Listas/5- Listas.ipynb)**
 
+
 **[6. Tuplas, Dicionários e Conjuntos](Iniciante-para-geoprocessamento-com-python/Python Básico/Tuplas, Dicionários e Conjuntos/5- Tuplas, Dicionários e Conjuntos.ipynb)**
+
 
 **[7. Funções](Iniciante-para-geoprocessamento-com-python/Python Básico/Funções/6- Funções.ipynb)**
 
