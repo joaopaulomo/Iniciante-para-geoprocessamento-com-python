@@ -53,21 +53,13 @@ pip install arcgis
 **OBS: Existe um site onde você pode executar os códigos diretamente pela internet, sem precisar baixar o Jupyter ou o VSCode. Vou incluí-lo na seção de tópicos.**
 ## Base de python
 
-**[1. Tipos de variáveis e operações](Iniciante-para-geoprocessamento-com-python/Python Básico/Tipos de variáveis/1-Tipos de variaveis.ipynb)**
-
-**[2. Estruturas condicionais](Iniciante-para-geoprocessamento-com-python/Python Básico/Estruturas Condicionais/2- Estruturas Condicionais.ipynb)** 
-
-**[3. Estruturas de repetição](Iniciante-para-geoprocessamento-com-python/Python Básico/Estruturas de repetição/3- Estruturas De Repeticao.ipynb)**
-
-**[4. Strings](Iniciante-para-geoprocessamento-com-python/Python Básico/Strings/4- Strings.ipynb)**
-
-**[5. Listas](Iniciante-para-geoprocessamento-com-python/Python Básico/Listas/5- Listas.ipynb)**
-
-
-**[6. Tuplas, Dicionários e Conjuntos](Iniciante-para-geoprocessamento-com-python/Python Básico/Tuplas, Dicionários e Conjuntos/5- Tuplas, Dicionários e Conjuntos.ipynb)**
-
-
-**[7. Funções](Iniciante-para-geoprocessamento-com-python/Python Básico/Funções/6- Funções.ipynb)**
+- **[1. Tipos de variáveis e operações](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/1.%20Tipos%20de%20variáveis%20e%20operações)**
+- **[2. Estruturas condicionais](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/2.%20Estruturas%20condicionais)**
+- **[3. Estruturas de repetição](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/3.%20Estruturas%20de%20repetição)**
+- **[4. Strings](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/4.%20Strings)**
+- **[5. Listas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/5.%20Listas)**
+- **[6. Tuplas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/6.%20Tuplas)**
+- **[7. Funções](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/7.%20Funções)**
 
 - **OBS: Cada tópico de Python base estará na pasta "Python Base".**
 
