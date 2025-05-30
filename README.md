@@ -63,7 +63,7 @@ pip install arcgis
 
 **5. Listas**
 
-**6. Tuplas**
+**6. Tuplas, Dicionários e Conjuntos**
 
 **7. Funções**
 
