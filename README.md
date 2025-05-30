@@ -53,38 +53,38 @@ pip install arcgis
 **OBS: Existe um site onde você pode executar os códigos diretamente pela internet, sem precisar baixar o Jupyter ou o VSCode. Vou incluí-lo na seção de tópicos.**
 ## Base de python
 
-**1. Tipos de variáveis e operações**
+**[1. Tipos de variáveis e operações](Iniciante-para-geoprocessamento-com-python/Python Básico/Tipos de variáveis/1-Tipos de variaveis.ipynb)**
 
-**2. Estruturas condicionais** 
+**[2. Estruturas condicionais](Iniciante-para-geoprocessamento-com-python/Python Básico/Estruturas Condicionais/2- Estruturas Condicionais.ipynb)** 
 
-**3. Estruturas de repetição**
+**[3. Estruturas de repetição](Iniciante-para-geoprocessamento-com-python/Python Básico/Estruturas de repetição/3- Estruturas De Repeticao.ipynb)**
 
-**4. Strings**
+**[4. Strings](Iniciante-para-geoprocessamento-com-python/Python Básico/Strings/4- Strings.ipynb)**
 
-**5. Listas**
+**[5. Listas](Iniciante-para-geoprocessamento-com-python/Python Básico/Listas/5- Listas.ipynb)**
 
-**6. Tuplas**
+**[6. Tuplas, Dicionários e Conjuntos](Iniciante-para-geoprocessamento-com-python/Python Básico/Tuplas, Dicionários e Conjuntos/5- Tuplas, Dicionários e Conjuntos.ipynb)**
 
-**7. Funções**
+**[7. Funções](Iniciante-para-geoprocessamento-com-python/Python Básico/Funções/6- Funções.ipynb)**
 
 - **OBS: Cada tópico de Python base estará na pasta "Python Base".**
 
 ## Análise de dados
 
-**1. Introdução ao pandas**
+**[1. Introdução ao pandas](Iniciante-para-geoprocessamento-com-python/Análise de Dados/Introdução ao Pandas/Introdução_ao_pandas.ipynb)**
 
-**2. Manipulação e visualização de dados** 
+**[2. Manipulação e visualização de dados](Iniciante-para-geoprocessamento-com-python/Análise de Dados/Manipulando e visualizando dados/Manipulando_e_Visualizando_Dados.ipynb)** 
 
-**3. Exemplo com Análise exploratória**
+**[3. Exemplo com Análise exploratória](Iniciante-para-geoprocessamento-com-python/Análise de Dados/Análise exploratória/Analise_Exploratoria.ipynb)**
 
 
 ## Geoprocessamento
 
-**1. Introdução ao Shapely e ao Fiona**
+**[1. Introdução ao Shapely e ao Fiona](Iniciante-para-geoprocessamento-com-python/Geoprocessamento/Introdução ao Shapely e Fiona/Shapely e Fiona.ipynb)**
 
-**2. Geopandas**
+**[2. Geopandas](Iniciante-para-geoprocessamento-com-python/Geoprocessamento/Geopandas/Geopandas.ipynb)**
 
-**3. Visualização de dados geoespaciais**
+**[3. Visualização de dados geoespaciais](Iniciante-para-geoprocessamento-com-python/Geoprocessamento/Visualização de dados geoespaciais no python/visualização de dados geoespaciais no python.py)**
 ## Cursos
 
 - **[Iniciando com Python GIS](https://www.youtube.com/watch?v=R9dLGLVqK9Q)**
