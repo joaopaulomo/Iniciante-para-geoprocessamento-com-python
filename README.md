@@ -53,9 +53,9 @@ pip install arcgis
 **OBS: Existe um site onde você pode executar os códigos diretamente pela internet, sem precisar baixar o Jupyter ou o VSCode. Vou incluí-lo na seção de tópicos.**
 ## Base de python
 
-- **[1. Tipos de variáveis e operações]([Python Básico/Tipos de variáveis](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Tipos%20de%20variáveis)**
-- **[2. Estruturas condicionais]([https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/2.%20Estruturas%20condicionais](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Estruturas%20Condicionais)**
-- **[3. Estruturas de repetição]([https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/3.%20Estruturas%20de%20repetição](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Estruturas%20de%20repetição)**
+- **[1. Tipos de variáveis e operações](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Tipos%20de%20variáveis)**
+- **[2. Estruturas condicionais](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Estruturas%20Condicionais)**
+- **[3. Estruturas de repetição](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Estruturas%20de%20repetição)**
 - **[4. Strings](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/4.%20Strings)**
 - **[5. Listas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/5.%20Listas)**
 - **[6. Tuplas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/6.%20Tuplas)**
