@@ -81,7 +81,7 @@ pip install arcgis
 **[3. Visualização de dados geoespaciais](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Geoprocessamento/Visualização%20de%20dados%20geoespaciais%20no%20python)**
 ## Cursos
 
-- **[Iniciando com Python GIS](https://www.youtube.com/watch?v=R9dLGLVqK9Q)**
+- **[Iniciando com Python GIS](www.udemy.com/course/iniciando-com-python-gis/)**
 - **[QGIS Profissional de A a Z: Curso Completo-Geoprocessamento](https://www.udemy.com/course/qgis-profissional-de-a-a-z-curso-completo-geoprocessamento/?utm_source=adwords&utm_medium=udemyads&utm_campaign=MX_FF-CONV_BR_Search-NB_DSA_Beta_la.PT_Google&campaigntype=Search&portfolio=Brazil&language=PT&product=Course&test=&audience=DSA&topic=&priority=Beta&funnel=Conversion&utm_content=&utm_term=_._ag_164619373826_._ad_706585633190_._kw__._de_c_._dm__._pl__._ti_aud-2268488108639%3Adsa-2328541781035_._li_9198184_._pd__._&matchtype=&gad_source=1&gad_campaignid=21497093485&gclid=CjwKCAjwruXBBhArEiwACBRtHaZt2k13I6bdi4Fsuv6nKx2E73Yc5DTtamio5NP5KZM0gQWjdFJOrhoCzAoQAvD_BwE&couponCode=2021PM250,)**
 - **[PyGeo](https://cursos.clickgeo.com.br/pygeo/)**
 - **[Aprenda geoprocessamento com QGIS](https://www.udemy.com/course/aprenda-geoprocessamento-com-qgis/?couponCode=2021PM25)**
