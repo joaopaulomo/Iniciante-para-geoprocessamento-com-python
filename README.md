@@ -56,29 +56,29 @@ pip install arcgis
 - **[1. Tipos de variáveis e operações](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Tipos%20de%20variáveis)**
 - **[2. Estruturas condicionais](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Estruturas%20Condicionais)**
 - **[3. Estruturas de repetição](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Estruturas%20de%20repetição)**
-- **[4. Strings](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/4.%20Strings)**
-- **[5. Listas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/5.%20Listas)**
-- **[6. Tuplas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/6.%20Tuplas)**
-- **[7. Funções](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/7.%20Funções)**
+- **[4. Strings](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Strings)**
+- **[5. Listas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Listas)**
+- **[6. Tuplas, Dicionários e Conjuntos](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Tuplas%2C%20Dicionários%20e%20Conjuntos)**
+- **[7. Funções](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Python%20Básico/Funções)**
 
 - **OBS: Cada tópico de Python base estará na pasta "Python Base".**
 
 ## Análise de dados
 
-**[1. Introdução ao pandas](Iniciante-para-geoprocessamento-com-python/Análise de Dados/Introdução ao Pandas/Introdução_ao_pandas.ipynb)**
+**[1. Introdução ao pandas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Análise%20de%20Dados/Introdução%20ao%20Pandas)**
 
-**[2. Manipulação e visualização de dados](Iniciante-para-geoprocessamento-com-python/Análise de Dados/Manipulando e visualizando dados/Manipulando_e_Visualizando_Dados.ipynb)** 
+**[2. Manipulação e visualização de dados](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Análise%20de%20Dados/Manipulando%20e%20visualizando%20dados)** 
 
-**[3. Exemplo com Análise exploratória](Iniciante-para-geoprocessamento-com-python/Análise de Dados/Análise exploratória/Analise_Exploratoria.ipynb)**
+**[3. Exemplo com Análise exploratória](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Análise%20de%20Dados/Análise%20exploratória)**
 
 
 ## Geoprocessamento
 
-**[1. Introdução ao Shapely e ao Fiona](Iniciante-para-geoprocessamento-com-python/Geoprocessamento/Introdução ao Shapely e Fiona/Shapely e Fiona.ipynb)**
+**[1. Introdução ao Shapely e ao Fiona](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Geoprocessamento/Introdução%20ao%20Shapely%20e%20Fiona)**
 
-**[2. Geopandas](Iniciante-para-geoprocessamento-com-python/Geoprocessamento/Geopandas/Geopandas.ipynb)**
+**[2. Geopandas](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Geoprocessamento/Geopandas)**
 
-**[3. Visualização de dados geoespaciais](Iniciante-para-geoprocessamento-com-python/Geoprocessamento/Visualização de dados geoespaciais no python/visualização de dados geoespaciais no python.py)**
+**[3. Visualização de dados geoespaciais](https://github.com/joaopaulomo/Iniciante-para-geoprocessamento-com-python/tree/main/Geoprocessamento/Visualização%20de%20dados%20geoespaciais%20no%20python)**
 ## Cursos
 
 - **[Iniciando com Python GIS](https://www.youtube.com/watch?v=R9dLGLVqK9Q)**
